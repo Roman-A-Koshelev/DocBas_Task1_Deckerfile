@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.task1_dockerfile;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

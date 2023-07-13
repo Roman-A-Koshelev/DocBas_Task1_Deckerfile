@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.task1_dockerfile;
 
 import lombok.Data;
 
